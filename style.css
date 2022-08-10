@@ -1,0 +1,10 @@
+.donate-today{
+    text-align: center;
+}
+.donation-tk{
+    display: flex;
+    justify-content:space-evenly;
+    border: 1px solid black;
+    width: 50%;
+    
+}
